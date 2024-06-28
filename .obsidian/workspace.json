@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e186a008e5da99f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f0633d9b2a70c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md"
               }
             }
           },
@@ -172,10 +196,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c33898f33c60e154",
+  "active": "d776bd102f19f8b5",
   "lastOpenFiles": [
-    "library/Understanding Marine Microbes, the Driving Engines of the Ocean.md",
+    "Kendall (UG research 24-25)",
+    "Untitled 2.md",
+    "Kendall (UG research 24-25)/Initial papers, Kendall.md",
     "Untitled.md",
+    "library/Understanding Marine Microbes, the Driving Engines of the Ocean.md",
     "README.md",
     "templates/Library entry.md",
     "library/Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton..md",
