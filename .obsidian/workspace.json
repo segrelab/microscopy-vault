@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/Understanding Marine Microbes, the Driving Engines of the Ocean.md",
+                "file": "library (general)/Understanding Marine Microbes, the Driving Engines of the Ocean.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kendall (UG research 24-25)/Initial papers, Kendall.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -196,18 +196,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d776bd102f19f8b5",
+  "active": "9f0633d9b2a70c00",
   "lastOpenFiles": [
-    "Kendall (UG research 24-25)",
     "Untitled 2.md",
     "Kendall (UG research 24-25)/Initial papers, Kendall.md",
+    "microscopy methods",
+    "Kendall (UG research 24-25)",
     "Untitled.md",
-    "library/Understanding Marine Microbes, the Driving Engines of the Ocean.md",
+    "library (general)/Understanding Marine Microbes, the Driving Engines of the Ocean.md",
     "README.md",
     "templates/Library entry.md",
-    "library/Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton..md",
+    "library (general)/Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton..md",
     "library/Untitled.md",
     "templates",
-    "library"
+    "library (general)"
   ]
 }
