@@ -1,2 +1,4 @@
 # microscopy-vault
-coordination of microscope experiment, initiated for the marine projects summer 2024
+coordination of microscope experiments, initiated for the marine projects summer 2024
+
+
